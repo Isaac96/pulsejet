@@ -1,4 +1,8 @@
 # pulsejet
+
+This is a science fair project which is building a pulsejet and changing variables to see what happens.
+
+
 http://www.plans-for-everything.com/downloads/pulse_jets/PJE%20ThermojetValveless.pdf
 
 1. 14.5 inches of 1.25 OD stainless tubing https://www.onlinemetals.com/merchant.cfm?pid=4244&step=4&showunits=inches&id=20&top_cat=1
